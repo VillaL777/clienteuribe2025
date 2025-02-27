@@ -1,0 +1,33 @@
+.bannner {
+    background-color: #f8f9fa; 
+    height: 300px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.container-my-5 {
+    margin: 2rem 0; 
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+h3 {
+    font-size: 2rem; 
+    color: #343a40; 
+}
+
+p {
+    line-height: 1.5; 
+    color: #6c757d; 
+}
+
+.shadow {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    padding: 2rem; 
+}
+
+}
